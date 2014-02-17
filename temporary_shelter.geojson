@@ -1,0 +1,36 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Mbizi Marshalling Yard",
+        "Category": "Temporary Shelter",
+        "marker-color": "#3182bd",
+        "marker-symbol": "embassy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.014341,
+          -21.393408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Zunga Primary School",
+        "Category": "Transit Camp",
+        "marker-color": "#3182bd",
+        "marker-symbol": "embassy"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.842048,
+          -20.743054
+        ]
+      }
+    }
+  ]
+}
