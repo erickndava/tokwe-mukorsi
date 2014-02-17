@@ -1,7 +1,26 @@
 {
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "name": "Zunga Transit Camp" }, "geometry": { "type": "Point", "coordinates": [ 30.842048055555551, -20.74305388888882 ] } }
-]
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker_symbol": "town-hall",
+        "marker-color": "",
+        "name": "Zunga Transit Camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.84204805555555,
+          -20.74305388888882
+        ]
+      }
+    }
+  ]
 }
