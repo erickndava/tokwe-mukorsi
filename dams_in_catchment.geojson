@@ -1,0 +1,36 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature",  "properties": {  "marker-symbol":"dam", "marker-color":"#3182bd", "name": "Holy Cross Dam" }, "geometry": { "type": "Point", "coordinates": [ 30.556254717688535, -19.566904808200135 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": {  "marker-symbol":"dam", "marker-color":"#3182bd", "name": "Chengwena Dam" }, "geometry": { "type": "Point", "coordinates": [ 30.547970344914489, -19.807151618647431 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": {  "marker-symbol":"dam", "marker-color":"#3182bd", "name": "Chinyuni Dam" }, "geometry": { "type": "Point", "coordinates": [ 30.569623121730558, -19.847723803258781 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": {  "marker-symbol":"dam", "marker-color":"#3182bd", "name": "Munetsa Dam" }, "geometry": { "type": "Point", "coordinates": [ 30.571624432381633, -19.87694293876444 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": {  "marker-symbol":"dam", "marker-color":"#3182bd", "name": "Wurayayi Dam" }, "geometry": { "type": "Point", "coordinates": [ 30.587634917590211, -19.831046214499843 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": {  "marker-symbol":"dam", "marker-color":"#3182bd", "name": "Mangerekete Dam" }, "geometry": { "type": "Point", "coordinates": [ 30.526027026946874, -19.83138854395331 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": {  "marker-symbol":"dam", "marker-color":"#3182bd", "name": "Muzhwi Dam" }, "geometry": { "type": "Point", "coordinates": [ 30.501527649059998, -19.943718248619561 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": {  "marker-symbol":"dam", "marker-color":"#3182bd", "name": "Mufiri Dam" }, "geometry": { "type": "Point", "coordinates": [ 30.272828752176522, -19.976604698116525 ] } }
+,
+{ "type": "Feature", "id": 8, "properties": {  "marker-symbol":"dam", "marker-color":"#3182bd", "name": "Denga Dam" }, "geometry": { "type": "Point", "coordinates": [ 30.405378716561238, -20.108150496104386 ] } }
+,
+{ "type": "Feature", "id": 9, "properties": {  "marker-symbol":"dam", "marker-color":"#3182bd", "name": "Mushandike Dam" }, "geometry": { "type": "Point", "coordinates": [ 30.627801573464378, -20.142543195196634 ] } }
+,
+{ "type": "Feature", "id": 10, "properties": {  "marker-symbol":"dam", "marker-color":"#3182bd", "name": "Magwati Dam" }, "geometry": { "type": "Point", "coordinates": [ 30.510816188230898, -20.273084826787649 ] } }
+,
+{ "type": "Feature", "id": 11, "properties": {  "marker-symbol":"dam", "marker-color":"#3182bd", "name": "Muchenami Dam" }, "geometry": { "type": "Point", "coordinates": [ 30.530397432969547, -20.290908780331804 ] } }
+,
+{ "type": "Feature", "id": 12, "properties": {  "marker-symbol":"dam", "marker-color":"#3182bd", "name": "Zengeya Dam" }, "geometry": { "type": "Point", "coordinates": [ 31.013150428257067, -20.65542118238978 ] } }
+,
+{ "type": "Feature", "id": 13, "properties": {  "marker-symbol":"dam", "marker-color":"#3182bd", "name": "Tokwane Dam" }, "geometry": { "type": "Point", "coordinates": [ 31.04990563886016, -20.863406478514534 ] } }
+,
+{ "type": "Feature", "id": 14, "properties": {  "marker-symbol":"dam", "marker-color":"#3182bd", "name": "Tokwe Mukorsi Dam" }, "geometry": { "type": "Point", "coordinates": [ 30.881954683299909, -20.717405941799708 ] } }
+
+]
+}
