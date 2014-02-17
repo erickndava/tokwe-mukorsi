@@ -10,8 +10,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker_symbol": "town-hall",
-        "marker-color": "",
+        "marker-symbol":"town-hall",
+        "marker-size":"medium";
+        "marker-color":"#fdbb84",
         "name": "Zunga Transit Camp"
       },
       "geometry": {
