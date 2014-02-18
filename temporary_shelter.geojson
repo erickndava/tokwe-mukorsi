@@ -37,6 +37,7 @@
       "properties": {
       "Name": "Chigwizi Section - Nuanetsi Ranch",
         "Category": "Ressetlement Area",
+        "Capacity": "25 025 Families",
         "marker-color": "#3182bd",
         "marker-symbol": "embassy"},
       "geometry": {
