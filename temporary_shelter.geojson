@@ -47,5 +47,21 @@
         ]
       }
     }
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Chisave Business Centre",
+        "Category": "Relocation Site",
+        "Capacity":"126 Families'
+        "marker-color": "#3182bd",
+        "marker-symbol": "embassy"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.170779,
+          -21.287270
+        ]
+      }
+    }
   ]
 }
