@@ -18,5 +18,6 @@ Water pressure on the incomplete dam caused seepage through the embarkement caus
 [image of cracking dam
 
 ## This Project
-This project hosts data that would possibly be used to plan evacuation of people downstream as well as look perspectively at hydrologic and other factors impacting the still incomplete dam.
+This project hosts data that would possibly be used to plan evacuation of people downstream as well as look perspectively at hydrologic and other factors impacting the still incomplete dam. 
+_It is the work of a spatial data entusiasts and should not be taken as authoritative but insightful only._
 > Be sure to look at the file [**metadata.md**](https://github.com/erickndava/tokwe-mukorsi/blob/master/metadata.md) for more information on data accuracy, sources and currency.
