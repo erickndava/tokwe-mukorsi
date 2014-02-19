@@ -62,6 +62,21 @@
           -20.686231
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Chigwizi Clinic",
+        "Category": "Medical Assistance",
+        "marker-color": "#3182bd",
+        "marker-symbol": "hospital"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.170800,
+          -21.288000
+        ]
+      }
     }
   ]
 }
