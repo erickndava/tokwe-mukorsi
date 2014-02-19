@@ -77,6 +77,21 @@
           -21.288000
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Gororo Primary School",
+        "Category": "Transit Camp",
+        "marker-color": "#3182bd",
+        "marker-symbol": "embassy"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.904378,
+          -20.770881
+        ]
+      }
     }
   ]
 }
