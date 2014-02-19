@@ -39,7 +39,7 @@
         "Category": "Ressetlement Area",
         "Capacity": "25 025 Families",
         "marker-color": "#31a354",
-        "marker-symbol": "town-house"},
+        "marker-symbol": "building"},
       "geometry": {
         "type": "Point",
         "coordinates": [
