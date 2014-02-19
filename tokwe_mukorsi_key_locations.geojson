@@ -107,6 +107,22 @@
           -20.53779
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Raragwe",
+      "Category": "Transit Camp",
+      "Note":"Location is coarse",
+        "marker-color": "#3182bd",
+        "marker-symbol": "embassy"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.89046,
+          -20.650425
+        ]
+      }
     }
   ]
 }
