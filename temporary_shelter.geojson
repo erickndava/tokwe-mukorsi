@@ -68,7 +68,7 @@
       "properties": {
       "Name": "Chigwizi Clinic",
         "Category": "Medical Assistance",
-        "marker-color": "#3182bd",
+        "marker-color": "#e34a33",
         "marker-symbol": "hospital"},
       "geometry": {
         "type": "Point",
