@@ -6,7 +6,7 @@ A project on data and information relevant for a postmoterm, spatial perspective
 ## Background
 ### The Dam
 Tokwe-Mukorsi (alternatively Tokwe-Mukosi) Dam is a Concrete Face Rockfill Dam which when complete would have a capacity of 1.8 million cubic litres and become the largest inland lake in Zimbabwe, with a flood area covering more than 9 600 hectares. It is target to produce 6 MegaWatts of electricity and is being developed for water storage and irrigation purposes. The dam is on the Tokwe river, a tributary of the Runde river, which joins the Save at the Mozambique/Zimbabwe border.
-![](//Tokwe-Mukorsi-dam-300x228_aerial.jpg)
+[image of dam]
 ### The Incident
 From records of 40 years of monitoring the flow from the catchment area, it was deduced that the average annual inflow was received in 12 days as of 12 February 2014. 
 
