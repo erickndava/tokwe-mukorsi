@@ -51,16 +51,15 @@
     {
       "type": "Feature",
       "properties": {
-      "Name": "Chisave Business Centre",
-        "Category": "Relocation Site",
-        "Capacity":"126 Families",
+      "Name": "Zifunzi Primary School",
+        "Category": "Transit Camp",
         "marker-color": "#3182bd",
         "marker-symbol": "embassy"},
       "geometry": {
         "type": "Point",
         "coordinates": [
-          30.549186,
-          -20.419958
+          30.781507,
+          -20.686231
         ]
       }
     }
