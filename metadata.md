@@ -1,6 +1,6 @@
 ## Metadata on spatial Layers
 ===
-> **flood_zone_11_feb_2014**
+> **flood_zone_11_feb_2014.geojson**
 
 The bondary was digitised off a Satellite Detected water bodies (probable standing flood water) at the Dam , as detected by TerraSAR-X on 11 February 2014 at a resolution of 8.25m. Product Date; 11-Feb-14, Version 1.0, Activation Number: FL20140207ZWE
 
