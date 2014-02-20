@@ -7,3 +7,7 @@ The bondary was digitised off a Satellite Detected water bodies (probable standi
 (c) 2014 German Aerospace Centre (DLR), 2014 Astrium Services/Infoterra GmbH.
 
 A work of UNITAR/UNOSAT licensed under a Creative Commons Attribution-NonCommercial ShareAlike 3.0 Unported License.
+
+> **runde_subcatchment.geojson**
+
+Was derived from ASTER 30m DEM in gis and the extend was guided by catchemt area name derived from ZINWA boundary data.
