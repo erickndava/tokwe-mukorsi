@@ -11,3 +11,9 @@ A work of UNITAR/UNOSAT licensed under a Creative Commons Attribution-NonCommerc
 > **runde_subcatchment.geojson**
 
 Was derived from ASTER 30m DEM in gis and the extend was guided by catchemt area name derived from ZINWA boundary data.
+
+
+**homesteads_preflood_period**
+
+These represent one or more human dwellings and constitute the smallest unit of a village or hamlet. The point data was digitised off 2008 satellite imagery. 
+
