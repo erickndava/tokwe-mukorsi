@@ -1,0 +1,84 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "name": "Vomgwe" }, "geometry": { "type": "Point", "coordinates": [ 30.901365858436243, -20.577206557475954 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "name": "Shongamiti" }, "geometry": { "type": "Point", "coordinates": [ 30.89809, -20.78507 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "name": "Chisanati" }, "geometry": { "type": "Point", "coordinates": [ 30.82027585843624, -20.649092070781879 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "name": "Romakumburu" }, "geometry": { "type": "Point", "coordinates": [ 30.91667, -20.61667 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "name": "Nyoni Hills" }, "geometry": { "type": "Point", "coordinates": [ 30.889494486694076, -20.729912761042506 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "name": "Nyuni" }, "geometry": { "type": "Point", "coordinates": [ 30.882638964609061, -20.750236902606268 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "name": "Ngundu" }, "geometry": { "type": "Point", "coordinates": [ 30.987908619478748, -20.711134141563761 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "name": "Mongore" }, "geometry": { "type": "Point", "coordinates": [ 30.85, -20.7 ] } }
+,
+{ "type": "Feature", "id": 8, "properties": { "name": "Mbangamahwe Range" }, "geometry": { "type": "Point", "coordinates": [ 31.052778480413188, -20.766685829928182 ] } }
+,
+{ "type": "Feature", "id": 9, "properties": { "name": "Marinda" }, "geometry": { "type": "Point", "coordinates": [ 30.963448964609057, -20.550744486694075 ] } }
+,
+{ "type": "Feature", "id": 10, "properties": { "name": "Manama" }, "geometry": { "type": "Point", "coordinates": [ 30.95, -20.78333 ] } }
+,
+{ "type": "Feature", "id": 11, "properties": { "name": "Makungubwe" }, "geometry": { "type": "Point", "coordinates": [ 30.968808274348433, -20.536426557475952 ] } }
+,
+{ "type": "Feature", "id": 12, "properties": { "name": "Kuva" }, "geometry": { "type": "Point", "coordinates": [ 30.883906893827177, -20.5953951769547 ] } }
+,
+{ "type": "Feature", "id": 13, "properties": { "name": "Gwenungo" }, "geometry": { "type": "Point", "coordinates": [ 31.18333, -21.06667 ] } }
+,
+{ "type": "Feature", "id": 14, "properties": { "name": "Gwenhengu" }, "geometry": { "type": "Point", "coordinates": [ 30.8929, -20.6562 ] } }
+,
+{ "type": "Feature", "id": 15, "properties": { "name": "Gwemandu" }, "geometry": { "type": "Point", "coordinates": [ 30.985557929218118, -20.537147937997208 ] } }
+,
+{ "type": "Feature", "id": 16, "properties": { "name": "Dimukwe" }, "geometry": { "type": "Point", "coordinates": [ 31.016396893827181, -20.593650008779086 ] } }
+,
+{ "type": "Feature", "id": 17, "properties": { "name": "Chipembana" }, "geometry": { "type": "Point", "coordinates": [ 30.966487929218118, -20.678245176954697 ] } }
+,
+{ "type": "Feature", "id": 18, "properties": { "name": "Chijimbwa" }, "geometry": { "type": "Point", "coordinates": [ 31.10267, -20.75119 ] } }
+,
+{ "type": "Feature", "id": 19, "properties": { "name": "Changombe" }, "geometry": { "type": "Point", "coordinates": [ 31.01252758408781, -20.577447937997206 ] } }
+,
+{ "type": "Feature", "id": 20, "properties": { "name": "Chakaseeta" }, "geometry": { "type": "Point", "coordinates": [ 30.85, -20.56667 ] } }
+,
+{ "type": "Feature", "id": 21, "properties": { "name": "Barura" }, "geometry": { "type": "Point", "coordinates": [ 30.78297, -20.74212 ] } }
+,
+{ "type": "Feature", "id": 22, "properties": { "name": "Munhimba" }, "geometry": { "type": "Point", "coordinates": [ 30.789885513305922, -20.660022761042505 ] } }
+,
+{ "type": "Feature", "id": 23, "properties": { "name": "Dvaira" }, "geometry": { "type": "Point", "coordinates": [ 30.785535858436237, -20.64251586721533 ] } }
+,
+{ "type": "Feature", "id": 24, "properties": { "name": "Garaneguti" }, "geometry": { "type": "Point", "coordinates": [ 30.80259, -20.63481 ] } }
+,
+{ "type": "Feature", "id": 25, "properties": { "name": "Chivavarira" }, "geometry": { "type": "Point", "coordinates": [ 30.80739, -20.69258 ] } }
+,
+{ "type": "Feature", "id": 26, "properties": { "name": "Chitakai" }, "geometry": { "type": "Point", "coordinates": [ 30.9987, -20.63054 ] } }
+,
+{ "type": "Feature", "id": 27, "properties": { "name": "Chehudo" }, "geometry": { "type": "Point", "coordinates": [ 30.990507929218118, -20.684274141563758 ] } }
+,
+{ "type": "Feature", "id": 28, "properties": { "name": "Chitakai" }, "geometry": { "type": "Point", "coordinates": [ 31.029956548696866, -20.608244486694073 ] } }
+,
+{ "type": "Feature", "id": 29, "properties": { "name": "Vamba" }, "geometry": { "type": "Point", "coordinates": [ 31.007296548696868, -20.73945621234564 ] } }
+,
+{ "type": "Feature", "id": 30, "properties": { "name": "Makungubwe" }, "geometry": { "type": "Point", "coordinates": [ 30.801015858436241, -20.719795176954698 ] } }
+,
+{ "type": "Feature", "id": 31, "properties": { "name": "Chinyamwa" }, "geometry": { "type": "Point", "coordinates": [ 30.87038, -20.76462 ] } }
+,
+{ "type": "Feature", "id": 32, "properties": { "name": "Woodridge" }, "geometry": { "type": "Point", "coordinates": [ 30.927417321408335, -20.709309549226454 ] } }
+,
+{ "type": "Feature", "id": 33, "properties": { "name": "Dare" }, "geometry": { "type": "Point", "coordinates": [ 30.857148826358671, -20.806134365147724 ] } }
+,
+{ "type": "Feature", "id": 34, "properties": { "name": "Dumbugure" }, "geometry": { "type": "Point", "coordinates": [ 30.843988171767432, -20.819530031428094 ] } }
+,
+{ "type": "Feature", "id": 35, "properties": { "name": "Dimbanyika" }, "geometry": { "type": "Point", "coordinates": [ 30.82189707298927, -20.788038465084771 ] } }
+,
+{ "type": "Feature", "id": 36, "properties": { "name": "Manjanja" }, "geometry": { "type": "Point", "coordinates": [ 30.839052926295707, -20.784513289747832 ] } }
+,
+{ "type": "Feature", "id": 37, "properties": { "name": "Sikanajena" }, "geometry": { "type": "Point", "coordinates": [ 30.80145105603502, -20.82540532365633 ] } }
+,
+{ "type": "Feature", "id": 38, "properties": { "name": "Maponde" }, "geometry": { "type": "Point", "coordinates": [ 30.786175296241613, -20.776757904006562 ] } }
+
+]
+}
